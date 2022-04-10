@@ -15,7 +15,7 @@ Pipelines are your way of managing deployments in a consistent, repeatable and s
 
 * Specify details for a given stage in the sections below.
 
-You can view pipeline execution history, which serves as a means to introspect details of each deployment operation, as well as an effective audit log of enforced processes/policies on how you make changes to your deployed applications landscape.
+You can view pipeline execution history, which serves as a means to inspect the details of each deployment operation, as well as an effective audit log of enforced processes/policies on how you make changes to your deployed applications landscape.
 
 ![](pipelines.png)
 
